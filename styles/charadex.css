@@ -256,7 +256,7 @@ a:active {
 
 .navbar .navbar-nav .nav-link {
   color: var(--cd-navbar-link-color) !important;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .navbar .navbar-nav .nav-link:hover, 
@@ -306,7 +306,7 @@ a:active {
 .navbar .dropdown-item-text {
   color: var(--cd-navbar-dropdown-link-color) !important;
   transition: color .2s ease, background .2s ease;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .navbar .dropdown-item:hover, 
